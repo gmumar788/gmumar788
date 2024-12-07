@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/umar-ali-b47845191/" target="_blank">Umar Ali</a>
 
 <p align="center">
-  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/finallogo1.jpg" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/KushalVijay/KushalVijay/blob/main/Ai.png" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=KushalVijay&show_icons=true" alt="KushalVijay">
 </p>
 
