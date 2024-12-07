@@ -1,3 +1,4 @@
+![logo](https://github.com/gmumar788/gmumar788/blob/main/image_2024-12-07_175658290.png?raw=true)
 <h1 align="center">Hi 👋, I'm Umar</h1>
 <h3 align="center">Data Scientist with expertise in Python, R, machine learning, analytics, and LLM models. Eager to leverage my skills to deliver data-driven insights and solutions for your team.</h3>
 
