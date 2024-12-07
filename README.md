@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <a href="www.youtube.com/c/SavageProgrammer" target="_blank"><img src="https://github.com/gmumar788/gmumar788/blob/main/image_2024-12-07_162047159.png" height="200" width="220"> </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api?username=gmumar788&show_icons=true" alt="gmumar788">
 </p>
 
 <p align="center">
