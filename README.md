@@ -28,9 +28,8 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/kushalvijay/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
+  <a href="https://www.linkedin.com/in/umar-ali-b47845191/" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="30"></a>
 &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/KushalVijay_" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" height="30" width="30"></a>
 </p>
 
 
